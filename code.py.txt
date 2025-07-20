@@ -1,0 +1,1 @@
+print("Nehru sai + Entri course")
